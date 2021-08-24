@@ -1,2 +1,2 @@
-obj\Release\netcoreapp3.1/ClassRoom.cs \
-obj\Release\netcoreapp3.1/ClassRoomGrpc.cs: Protos/classRoom.proto
+obj\Release\netcoreapp3.1\Protos/ClassRoom.cs \
+obj\Release\netcoreapp3.1\Protos/ClassRoomGrpc.cs: Protos/classRoom.proto
